@@ -674,8 +674,8 @@ color: var(--logo-and-hover-color);
 }
 
 .app-card {
-  display: center;
-  gap:23px;
+  display: flex;
+  width:1200px;
 }
 
 .title-app {
